@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[final]: ./examples/final.jpg "Final output"
+[final]: ./examples/final.png "Final output"
 
 ---
 
@@ -35,7 +35,7 @@ My pipeline does the following tasks -
 9. Draw the most dominant lines in Bold Red
 10. Iterate for each frame
 
-![alt text][final]
+![Detected Lane][final]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
