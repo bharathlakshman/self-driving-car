@@ -2,7 +2,7 @@
 
 Recognition and classification of traffic signs with help of Deep Learning algorithms
 
-![Traffic Sign Recognition](./images/logo.jpg)
+![Traffic Sign Recognition](./images/logo.png)
 
 ---
 
@@ -36,7 +36,7 @@ Results are:
 ##### **Training data**
 Here is an exploratory visualization of the training data set. The blue bars showing number of samples in the training set.
 
-![Training data distribution](./images/data.jpg)
+![Training data distribution](./images/data.png)
 
 
 **Details**
@@ -101,7 +101,7 @@ To understand what data present in data set, I exported all images on disk and a
 * Since training set was not even, I augmented the dataset by adding more images of classes were falling behind in count. Changing the orientation of the images can help create unique datasets if we need more accuracy.
 * Shuffle the training set.
 
-![Training data augmentation](./images/more_data.jpg)
+![Training data augmentation](./images/more_data.png)
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.)
 
